@@ -1,9 +1,6 @@
 ## 🌐 Socials:
-[<img align="left" alt="ovidiu.bachmatchi | sealnext" width="25px" src="./sealnext.png" />][sealnext]
-[<img align="left" alt="ovidiu.bachmatchi | Gmail" width="25px" src="./gmail.png" />][gmail]
-
-[sealnext]: https://sealnext.com
-[gmail]: mailto:ovidiu.bachmatchi@gmail.com
+<a href="https://sealnext.com" target="_blank"><img align="left" alt="ovidiu.bachmatchi | sealnext" width="25px" src="./sealnext.png" /></a>
+<a href="mailto:ovidiu.bachmatchi@gmail.com" target="_blank"><img align="left" alt="ovidiu.bachmatchi | Gmail" width="25px" src="./gmail.png" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ovidiubachmatchi/)
 <br>
